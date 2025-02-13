@@ -1,0 +1,45 @@
+.card-title {
+font-size: 30px;
+text-align: center;
+font-weight: 700;
+margin-top: 0;
+margin-bottom: 20px;
+color:#83AD60;
+}
+
+.card-img {
+    display: block;
+    margin: auto;
+}
+
+.card-subtitle {
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.card-port {
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #83AD60;
+}
+
+article {
+    width: 800px;
+    margin: auto;
+    margin-bottom: 60px;
+}
+
+.card-ind li {
+    font-size: 20px;
+
+}
+
+.card-reds {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+}
